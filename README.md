@@ -1,5 +1,9 @@
 # <b>MIRROR HUNTER</b>
 
+
+#Deploy on railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/cLmcbl?referralCode=1lr5v0)
+
 ![MIRROR HUNTER](https://media.giphy.com/media/dikubVwoUUBxLgpraV/giphy.gif?cid=790b7611c1fd9acab35e7fc75f7447316865d93043fc77b3&rid=giphy.gif&ct=s)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/anime-republic/MIRROR-HUNTER?color=blue&style=plastic)
